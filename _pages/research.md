@@ -18,7 +18,8 @@ I develop a novel measure of carbon sensitivity in lending to assess reductions 
 ### International Trade in Brown Shares and Economic Development
 with Harald Benink, Harry Huizinga, and Louis Raes. [CEPR](https://cepr.org/publications/dp18856) [VoxEU](https://cepr.org/voxeu/columns/international-trade-brown-shares-and-economic-development)
 
-Using global share ownership data from 2002 to 2021, we find that investors’ aggregate carbon sensitivity, i.e. their tendency to divest from more polluting firms, increases with per capita GDP. Especially investment managers, who invest on behalf of their clients, and investors with longer investment horizons contribute to the portfolio greening effect of economic development. We find that this effect is weaker for smaller firms and for firms that are included in the MSCI World Index. By acting as backstop owners of brown equities, investors in poorer countries could limit the impact of divestment of such equities in richer countries.
+Using global share ownership data from 2002 to 2021, we provide evidence that a country’s ownership share of carbon-intensive firms declines with its GDP per capita. This effect is primarily driven by investment managers that invest on behalf of others and long-term investors, and it is stronger for larger firms and firms in brown industries. Higher ownership by poorer countries is associated with higher emissions and ESG-related incident frequency. Hence, the ownership transfer of brown firms from high-income to low-income countries can impede these firms’ greening and more generally worsen their ESG performance.
+
 <br/>
 
 
